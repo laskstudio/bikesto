@@ -3,9 +3,6 @@ layout: post
 title: Terms and conditions
 project: bikesto
 ---
-
-
-**TERMS AND CONDITIONS**
  
 
 **Last Updated  02  March 2020**
