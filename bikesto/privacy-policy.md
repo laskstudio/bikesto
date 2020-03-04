@@ -4,6 +4,11 @@ title:  Privacy policy
 project: bikesto
 ---
 
+
+  
+**Last updated** **March 02, 2020**
+
+
 This  privacy policy applies to all information collected through our mobile application, ("**Apps**"),  and/or any related services, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
 
 **Please read this  privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
