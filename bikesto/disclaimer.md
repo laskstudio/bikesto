@@ -4,8 +4,6 @@ title:  Disclaimer
 project: bikesto
 ---
 
-**DISCLAIMER**
-
   
 **Last updated** **March 02, 2020**
     
