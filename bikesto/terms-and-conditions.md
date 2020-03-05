@@ -14,7 +14,7 @@ project: bikesto
 
   
 
-The Site provides the following services:  **Offering information about location of city bikes stations and an option of getting from one station to another. By using the application you are agreeing to the terms and conditions presented. Please use this information at your own risk. We are trying to provide quality information but are not taking responsibility for the accuracy of the information or any harm you may incur when using the application or following route suggestions. Remember always to obey local traffic rules and make sure they take priority over any information or route suggestions provided by the application.** (**Services**). You agree that by accessing the Site and/or Services, you have read, understood, and agree to be bound by all of these Terms and Conditions.
+The Site provides the following services:  **Offering information about location of city bikes stations and an option of getting from one station to another.** (**Services**). You agree that by accessing the Site and/or Services, you have read, understood, and agree to be bound by all of these Terms and Conditions.
 
   
 
