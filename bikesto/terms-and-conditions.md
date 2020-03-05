@@ -10,7 +10,7 @@ project: bikesto
 
 **1.**  **Agreement to Terms**
 
-1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**you**), and  **{{site.company}}** (**we**,  **us**), concerning your access to and use of the  **{{site[page.project].title}}** **([{{site[page.project].website}}]({{site[page.project].website}}))** website as well as any related applications (the  **Site**).
+1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**you**), and  **{{site.company}}** (**we**,  **us**), concerning your access to and use of the  **{{site[page.project].title}}** mobile application, **([{{site[page.project].website}}]({{site[page.project].website}}))** website as well as any related applications (the  **Site**).
 
   
 
@@ -44,7 +44,7 @@ The Site provides the following services:  **Offering information about location
 
 1.7 Additional policies which also apply to your use of the Site include:
 
-  
+**●** Our Disclaimer [{{site[page.project].disclaimer_link}}]({{site[page.project].disclaimer_link}}).  
 
 **●** Our Privacy Notice [{{site[page.project].privacy_link}}]({{site[page.project].privacy_link}}), which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate.
 
